@@ -1,0 +1,26 @@
+{
+  "name": "csp-admin",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5176"
+  },
+  "dependencies": {
+    "@refinedev/antd": "^5",
+    "@refinedev/core": "^5",
+    "antd": "^5",
+    "axios": "^1",
+    "i18next": "^23",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-router-dom": "^6"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "^4",
+    "typescript": "^5",
+    "vite": "^5"
+  }
+}
